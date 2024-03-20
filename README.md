@@ -6,7 +6,7 @@
 
 ## Why We Need SSH Key and How It Works?
 
-**SSH Key** saves you time by preventing you from having to log in with a password for every transaction on GitHub. With this key GitHub recognizes easily that the one is trying to do something is exactly you.
+**SSH Key** saves your time by preventing you from having to log in with a password for every transaction on GitHub. With this key GitHub recognizes easily that the one is trying to do something is exactly you.
 When you generate **SSH Key**, it creates two different keys. One of them is **Private Key** which stays in your device and other one **Public Key** which goes to GitHub. To use an analogy, **Private Key** is the lock keeps you safe and **Public Key** is the unique key for this lock. If two keys match GitHub defines authority for you.
 
 ## Step by Step Generating and Adding New SSH Key
